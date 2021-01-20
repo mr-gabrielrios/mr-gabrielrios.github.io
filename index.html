@@ -100,5 +100,16 @@
 				<li><a id="linkedin" href="https://www.linkedin.com/in/gabriel-rios-a1a9b6b7/">LinkedIn</a></li>
 			</ul>
 		</footer>
+		<script>
+		  if (window.netlifyIdentity) {
+		    window.netlifyIdentity.on("init", user => {
+		      if (!user) {
+		        window.netlifyIdentity.on("login", () => {
+		          document.location.href = "/admin/";
+		        });
+		      }
+		    });
+		  }
+		</script>
 	</body>
 </html>
