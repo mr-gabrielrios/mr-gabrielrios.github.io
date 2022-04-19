@@ -78,14 +78,11 @@ figcaption {
  * Lists
  */
 ul, ol {
-  margin-left: $spacing-unit;
+  margin-left: 0;
 }
 
 li {
-  > ul,
-  > ol {
-    margin-bottom: 0;
-  }
+  margin-bottom: $spacing-unit/6;
 }
 
 
@@ -94,8 +91,15 @@ li {
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
-  font-weight: $base-font-weight;
+  font-weight: $bold-font-weight;
 }
+
+h1 {font-size: relative-font-size(1.8)}
+h2 {font-size: relative-font-size(1.65)}
+h3 {font-size: relative-font-size(1.5)}
+h4 {font-size: relative-font-size(1.35)}
+h5 {font-size: relative-font-size(1.2)}
+h6 {font-size: relative-font-size(1)}
 
 
 
