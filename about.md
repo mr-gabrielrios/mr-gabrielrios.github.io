@@ -7,7 +7,7 @@ permalink: /about/
 ![Here's me smiling through way-too-cold temperatures atop Nevada Fall at Yosemite National Park.](https://mr-gabrielrios.github.io/docs/yosemite.jpg)
 
 
-I was born and raised in Miami, Florida. I earned my B.E. in mechanical engineering from Vanderbilt, spent a couple of years working as a design engineer in the aerospace industry, and am completing my M.E. in mechanical engineering at The City College of New York.
+I was born and raised in Miami, Florida. I earned my B.E. in mechanical engineering from Vanderbilt, spent a couple of years working as a design engineer in the aerospace industry, and am completing my M.E. in mechanical engineering at The City College of New York. My research interests are in tropical meteorology and numerical modeling, specifically in moist dynamics, rapid intensification of tropical cyclones, and subgrid-scale parameterizations of boundary layer processes.
 
 I'm a big NBA fan - the Heat come before all else (#heatculture), but the Grizzlies have a place in my heart from my college days. In the free time I'm not spending on my phone, I'm running, hiking, making Spotify playlists no one will ever listen to, or watching some pre-Y2K sitcom.
 

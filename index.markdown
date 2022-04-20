@@ -7,8 +7,6 @@ layout: home
 
 Hey there! I'm a Master's student and NOAA-CESSRST Graduate Fellow at The City College of New York. I research the urban boundary layer and play very disappointing basketball.
 
-
-
 ### Publications
 
 #### In press
