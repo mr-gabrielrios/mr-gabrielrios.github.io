@@ -9,14 +9,14 @@ Hey there! I'm a Master's student and NOAA-CESSRST Graduate Fellow at The City C
 
 ### Publications
 
-#### In press
+#### In progress
 
 <ol reversed start='3'>
-	<li><b>Rios, G.</b>, & Ramamurthy, P. (2022). Observations and analysis of an urban boundary layer and sea breezes during extreme heat events. Submitted to <i>International Journal of Climatology</i>.</li>
+	<li><b>Rios, G.</b>, & Ramamurthy, P. (2022). Observations and analysis of an urban boundary layer and sea breezes during extreme heat events. Submitted to <i>International Journal of Climatology</i>. ([pdf](/docs/ubl-extreme_heat.pdf))</li>
 </ol>
 
 #### Peer-reviewed
 <ol reversed>
-	<li><b>Rios, G.</b>, & Ramamurthy, P. (2022). A novel model to estimate sensible heat fluxes in urban areas using satellite-derived data. <i>Remote Sensing of Environment</i>, 270, 112880.</li>
-	<li><b>Rios, G.</b>, Morrison, R. J., Song, Y., Fernando, S. J., Wootten, C., Gelbard, A., & Luo, H. (2020). Computational fluid dynamics analysis of surgical approaches to bilateral vocal fold immobility. <i>The Laryngoscope</i>, 130(2), E57-E64.</li>
+	<li><b>Rios, G.</b>, & Ramamurthy, P. (2022). A novel model to estimate sensible heat fluxes  in urban areas using satellite-derived data. <i>Remote Sensing of Environment</i>, 270, 112880. ([pdf](/docs/qh_goes16.pdf)) </li>
+	<li><b>Rios, G.</b>, Morrison, R. J., Song, Y., Fernando, S. J., Wootten, C., Gelbard, A., & Luo, H. (2020). Computational fluid dynamics analysis of surgical approaches to bilateral vocal fold immobility. <i>The Laryngoscope</i>, 130(2), E57-E64. ([pdf](/docs/cfd_laryngoscope.pdf))</li>
 </ol>
