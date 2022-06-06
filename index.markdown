@@ -5,7 +5,7 @@
 layout: home
 ---
 
-Hey there! I'm a NOAA-CESSRST Graduate Fellow at The City College of New York. I research the urban boundary layer and play very disappointing basketball.
+Hey there! I'm a NOAA-CESSRST Graduate Fellow at The City College of New York and an incoming PhD student at Princeton University in the Atmospheric & Oceanic Sciences program. I research the urban boundary layer and play very disappointing basketball.
 
 ### Publications
 
