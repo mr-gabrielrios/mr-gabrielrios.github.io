@@ -5,14 +5,15 @@
 layout: home
 ---
 
-Hey there! I'm a NOAA-CESSRST Graduate Fellow at The City College of New York and an incoming PhD student at Princeton University in the Atmospheric & Oceanic Sciences program. I research the urban boundary layer and play very disappointing basketball.
+Hey there! I'm a PhD student at Princeton University in the Atmospheric & Oceanic Sciences program. Previously, I was at Vanderbilt University and a NOAA-CESSRST Graduate Fellow at The City College of New York researching the urban boundary layer.
 
 ### Publications
 
-#### In progress
+#### In preparation
 
 <ol reversed start='3'>
-	<li><b>Rios, G.</b>, & Ramamurthy, P. (2022). Observations and analysis of an urban boundary layer and sea breezes during extreme heat events. Submitted to <i>International Journal of Climatology</i>. <a href='/docs/ubl-extreme_heat.pdf'>(pdf)</a></li>
+	<li><b>Rios, G.</b>, Ramamurthy, P., Arend M. Boundary layer turbulence over a coastal urban area: a New York City case study.</li>
+	<li><b>Rios, G.</b>, & Ramamurthy, P. Observations and analysis of an urban boundary layer and sea breezes during extreme heat events.<a href='/docs/ubl-extreme_heat.pdf'>(pdf)</a></li>
 </ol>
 
 #### Peer-reviewed
