@@ -22,5 +22,6 @@ Hey there! I'm a PhD student at Princeton University in the Atmospheric & Oceani
 	<li><b>Rios, G.</b>, Morrison, R. J., Song, Y., Fernando, S. J., Wootten, C., Gelbard, A., & Luo, H. (2020). Computational fluid dynamics analysis of surgical approaches to bilateral vocal fold immobility. <i>The Laryngoscope</i>, 130(2), E57-E64. <a href='/docs/cfd_laryngoscope.pdf'>(pdf)</a></li>
 </ol>
 
+### What I'm listening to
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mrgabrielrios&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
