@@ -12,7 +12,7 @@ Hey there! I'm a PhD student at Princeton University in the Atmospheric & Oceani
 #### Under review/inpreparation
 
 <ol reversed start='4'>
-	<li><b>Rios, G.</b>, Ramamurthy, P., Arend M. Boundary layer turbulence over a coastal urban area: a New York City case study. <i>submitted to Atmospheric Chemistry & Physics</i>, <a href='/docs/rios_ramamurthy_2022_acp.pdf'>(pdf)</a></li>
+	<li><b>Rios, G.</b> and Ramamurthy, P. Turbulence in the mixed layer over an urban area: a New York City case study. <i>submitted to Atmospheric Chemistry & Physics</i>, <a href='/docs/rios_ramamurthy_2022_acp.pdf'>(pdf)</a></li>
 	<li><b>Rios, G.</b> & Ramamurthy, P. Observations and analysis of an urban boundary layer and sea breezes during extreme heat events. <a href='/docs/ubl-extreme_heat.pdf'>(pdf)</a></li>
 </ol>
 
