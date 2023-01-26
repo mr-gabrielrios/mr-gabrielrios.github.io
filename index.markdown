@@ -5,21 +5,23 @@
 layout: home
 ---
 
-Hey there! I'm a PhD student at Princeton University in the Atmospheric & Oceanic Sciences program. Previously, I was at Vanderbilt University and a NOAA-CESSRST Graduate Fellow at The City College of New York researching the urban boundary layer.
+Hey there! I'm a PhD student at Princeton University in the Atmospheric & Oceanic Sciences program. My research interests are tropical cyclones, numerical weather prediction, and climate model diagnostics. 
+
+Previously, I was at Vanderbilt University researching the use of computational methods in biomedical applications and a NOAA-CESSRST Graduate Fellow at The City College of New York researching the urban boundary layer.
 
 ### Publications
 
-#### Under review/inpreparation
+#### Under review/in preparation
 
 <ol reversed start='4'>
-	<li><b>Rios, G.</b> & Ramamurthy, P. Turbulence in the mixed layer over an urban area: a New York City case study. <i>submitted to Atmospheric Chemistry & Physics</i> <a href='/docs/rios_ramamurthy_2022_acp.pdf'>(pdf)</a></li>
-	<li><b>Rios, G.</b> & Ramamurthy, P. Observations and analysis of an urban boundary layer and sea breezes during extreme heat events. <a href='/docs/ubl-extreme_heat.pdf'>(pdf)</a></li>
+	<li><b>Rios, G.</b>; Ramamurthy, P; Gamarro, H. Observations and analysis of an urban boundary layer and sea breezes during extreme heat events. <i>in preparation</i>
+	<li><b>Rios, G.</b> & Ramamurthy, P. Turbulence in the mixed layer over an urban area: a New York City case study. <i>under review, Boundary Layer Meteorology</i> <a href='/docs/rios_ramamurthy_blm.pdf'>(pdf)</a></li>
 </ol>
 
 #### Peer-reviewed
 <ol reversed>
 	<li><b>Rios, G.</b> & Ramamurthy, P. (2022). A novel model to estimate sensible heat fluxes  in urban areas using satellite-derived data. <i>Remote Sensing of Environment</i>, 270, 112880. <a href='/docs/qh_goes16.pdf'>(pdf)</a></li>
-	<li><b>Rios, G.</b>, Morrison, R. J., Song, Y., Fernando, S. J., Wootten, C., Gelbard, A., & Luo, H. (2020). Computational fluid dynamics analysis of surgical approaches to bilateral vocal fold immobility. <i>The Laryngoscope</i>, 130(2), E57-E64. <a href='/docs/cfd_laryngoscope.pdf'>(pdf)</a></li>
+	<li><b>Rios, G.</b>; Morrison, R. J.; Song, Y.; Fernando, S. J.; Wootten, C.; Gelbard, A.; & Luo, H. (2020). Computational fluid dynamics analysis of surgical approaches to bilateral vocal fold immobility. <i>The Laryngoscope</i>, 130(2), E57-E64. <a href='/docs/cfd_laryngoscope.pdf'>(pdf)</a></li>
 </ol>
 
 ### What I'm listening to
