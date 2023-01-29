@@ -14,7 +14,7 @@ Previously, I was at Vanderbilt University researching the use of computational 
 #### Under review/in preparation
 
 <ol reversed start='4'>
-	<li><b>Rios, G.</b>; Ramamurthy, P; Gamarro, H. Observations and analysis of an urban boundary layer and sea breezes during extreme heat events. <i>in preparation</i>
+	<li><b>Rios, G.</b>; Ramamurthy, P; Gamarro, H. Observations and analysis of an urban boundary layer and sea breezes during extreme heat events. <i>in preparation</i></li>
 	<li><b>Rios, G.</b> & Ramamurthy, P. Turbulence in the mixed layer over an urban area: a New York City case study. <i>under review, Boundary Layer Meteorology</i> <a href='/docs/rios_ramamurthy_blm.pdf'>(pdf)</a></li>
 </ol>
 
