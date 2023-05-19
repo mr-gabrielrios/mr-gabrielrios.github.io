@@ -5,7 +5,7 @@
 layout: home
 ---
 
-Hey there! I'm a PhD student at Princeton University in the Atmospheric & Oceanic Sciences program. My research interests are tropical cyclones, numerical weather prediction, and climate model diagnostics. 
+Hey there! I'm a PhD student at Princeton University in the Atmospheric & Oceanic Sciences program and a <a href='https://www.krellinst.org/csgf/'>Department of Energy Computational Science Graduate Fellow</a>. My research interests are tropical cyclones, numerical weather prediction, and climate model diagnostics. 
 
 Previously, I was at Vanderbilt University researching the use of computational methods in biomedical applications and a NOAA-CESSRST Graduate Fellow at The City College of New York researching the urban boundary layer.
 
