@@ -15,11 +15,11 @@ Previously, I was at Vanderbilt University researching the use of computational 
 
 <ol reversed start='4'>
 	<li><b>Rios, G.</b>; Ramamurthy, P; Gamarro, H. Observations and analysis of an urban boundary layer and sea breezes during extreme heat events. <i>in preparation</i></li>
-	<li><b>Rios, G.</b> & Ramamurthy, P. Turbulence in the mixed layer over an urban area: a New York City case study. <i>under review, Boundary Layer Meteorology</i> <a href='/docs/rios_ramamurthy_blm.pdf'>(pdf)</a></li>
 </ol>
 
 #### Peer-reviewed
 <ol reversed>
+	<li><b>Rios, G.</b> & Ramamurthy, P. Turbulence in the mixed layer over an urban area: a New York City case study. <i>Boundary Layer Meteorology (accepted, in press)</i> <a href='/docs/rios_ramamurthy_blm.pdf'>(pdf)</a></li>
 	<li><b>Rios, G.</b> & Ramamurthy, P. (2022). A novel model to estimate sensible heat fluxes  in urban areas using satellite-derived data. <i>Remote Sensing of Environment</i>, 270, 112880. <a href='/docs/qh_goes16.pdf'>(pdf)</a></li>
 	<li><b>Rios, G.</b>; Morrison, R. J.; Song, Y.; Fernando, S. J.; Wootten, C.; Gelbard, A.; & Luo, H. (2020). Computational fluid dynamics analysis of surgical approaches to bilateral vocal fold immobility. <i>The Laryngoscope</i>, 130(2), E57-E64. <a href='/docs/cfd_laryngoscope.pdf'>(pdf)</a></li>
 </ol>
