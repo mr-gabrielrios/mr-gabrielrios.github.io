@@ -13,8 +13,9 @@ Previously, I was at Vanderbilt University researching the use of computational 
 
 #### Under review/in preparation
 
-<ol reversed start='4'>
-	<li><b>Rios, G.</b>; Ramamurthy, P; Gamarro, H. Observations and analysis of an urban boundary layer and sea breezes during extreme heat events. <i>in preparation</i></li>
+<ol reversed start='5'>
+	<li><b>Rios, G.</b>; Arthur, R.; Wharton, S. Lidar-based evaluation of HRRR performance in the Diablo Range. <i>in preparation</i></li>
+	<li><b>Rios, G.</b>; Ramamurthy, P.; Gamarro, H. Observations and analysis of an urban boundary layer and sea breezes during extreme heat events. <i>in preparation</i></li>
 </ol>
 
 #### Peer-reviewed
