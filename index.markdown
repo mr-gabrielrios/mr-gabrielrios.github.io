@@ -5,7 +5,7 @@
 layout: home
 ---
 
-Hey there! I'm a PhD student at the <a href='https://aos.princeton.edu/'>Program in Atmospheric & Oceanic Sciences</a> at Princeton University and a <a href='https://www.krellinst.org/csgf/'>Department of Energy Computational Science Graduate Fellow</a>. My research interests are tropical cyclones, numerical weather prediction, and climate model diagnostics. 
+Hey there! I'm a PhD student at the <a href='https://aos.princeton.edu/'>Program in Atmospheric & Oceanic Sciences</a> at Princeton University and a <a href='https://www.krellinst.org/csgf/fellows/profile?n=rios2023'>Department of Energy Computational Science Graduate Fellow</a>. My research interests are tropical cyclones, numerical weather prediction, and climate model diagnostics. 
 
 Previously, I was at Vanderbilt University researching the use of computational methods in biomedical applications and a NOAA-CESSRST Graduate Fellow at The City College of New York researching the urban boundary layer.
 
@@ -20,7 +20,7 @@ Previously, I was at Vanderbilt University researching the use of computational 
 
 #### Peer-reviewed
 <ol reversed>
-	<li><b>Rios, G.</b> & Ramamurthy, P. Turbulence in the mixed layer over an urban area: a New York City case study. <i>Boundary Layer Meteorology (accepted, in press)</i> <a href='/docs/rios_ramamurthy_blm.pdf'>(pdf)</a></li>
+	<li><b>Rios, G.</b> & Ramamurthy, P. Turbulence in the mixed layer over an urban area: a New York City case study. <i>Boundary Layer Meteorology</i> <a href='/docs/rios_ramamurthy_blm.pdf'>(pdf)</a></li>
 	<li><b>Rios, G.</b> & Ramamurthy, P. (2022). A novel model to estimate sensible heat fluxes  in urban areas using satellite-derived data. <i>Remote Sensing of Environment</i>, 270, 112880. <a href='/docs/qh_goes16.pdf'>(pdf)</a></li>
 	<li><b>Rios, G.</b>; Morrison, R. J.; Song, Y.; Fernando, S. J.; Wootten, C.; Gelbard, A.; & Luo, H. (2020). Computational fluid dynamics analysis of surgical approaches to bilateral vocal fold immobility. <i>The Laryngoscope</i>, 130(2), E57-E64. <a href='/docs/cfd_laryngoscope.pdf'>(pdf)</a></li>
 </ol>
