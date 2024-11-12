@@ -5,7 +5,7 @@
 layout: home
 ---
 
-Hey there! I'm a PhD student at the <a href='https://aos.princeton.edu/'>Program in Atmospheric & Oceanic Sciences</a> at Princeton University and a <a href='https://www.krellinst.org/csgf/fellows/profile?n=rios2023'>Department of Energy Computational Science Graduate Fellow</a>. My research interests are tropical cyclones, numerical weather prediction, and climate model diagnostics. Away from technical work, I help run <a href='https://www.caribbeansforclimate.com'>Caribbeans for Climate</a>, a nonprofit organization aimed at creating a network of Caribbean climate stakeholders. 
+Hey there! I'm a PhD candidate at the <a href='https://aos.princeton.edu/'>Program in Atmospheric & Oceanic Sciences</a> at Princeton University and a <a href='https://www.krellinst.org/csgf/fellows/profile?n=rios2023'>Department of Energy Computational Science Graduate Fellow</a>. My research interests are tropical cyclones, numerical weather prediction, and climate model diagnostics. Away from technical work, I help run <a href='https://www.caribbeansforclimate.com'>Caribbeans for Climate</a>, a nonprofit organization aimed at creating a network of Caribbean climate stakeholders. 
 
 Previously, I was at Vanderbilt University researching the use of computational methods in biomedical applications and a NOAA-CESSRST Graduate Fellow at The City College of New York researching the urban boundary layer.
 
@@ -13,8 +13,10 @@ Previously, I was at Vanderbilt University researching the use of computational 
 
 #### Under review/in preparation
 
-<ol reversed start='6'>
-	<li><b>Rios, G.</b>; Arthur, R.; Wharton, S. Lidar-based evaluation of HRRR performance in the Diablo Range. <i>in preparation</i></li>
+<ol reversed start='8'>
+	<li><b>Rios, G.</b>; Arthur, R.; Wharton, S. Lidar-based evaluation of HRRR performance in the Diablo Range. <i>in review</i></li>
+	<li>RS Arthur; A Rybchuk; TW Juliano; <b>Rios, G.</b>; S Wharton; JK Lundquist; J Fast. Evaluating mesoscale model predictions of diurnal speedup events in the Altamont Pass Wind Resource Area of California. <i>in review</i></li>
+	<li><b>Rios, G.</b>; Vecchi, G.; Yang, W. Reducing tropical cyclone activity in global climate models by evaporative suppression. <i>in preparation</i></li>
 	<li><b>Rios, G.</b>; Peña, JC; Gamarro, H; Ramamurthy, P. Observations and analysis of an urban boundary layer and sea breezes during extreme heat events. <i>in preparation</i></li>
 </ol>
 
