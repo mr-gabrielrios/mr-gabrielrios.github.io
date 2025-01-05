@@ -14,9 +14,9 @@ Previously, I was at Vanderbilt University researching the use of computational 
 #### Under review/in preparation
 
 <ol reversed start='8'>
-	<li><b>Rios, G.</b>; Arthur, R.; Wharton, S. Lidar-based evaluation of HRRR performance in the Diablo Range. <i>in review</i></li>
-	<li>RS Arthur; A Rybchuk; TW Juliano; <b>Rios, G.</b>; S Wharton; JK Lundquist; J Fast. Evaluating mesoscale model predictions of diurnal speedup events in the Altamont Pass Wind Resource Area of California. <i>in review</i></li>
-	<li><b>Rios, G.</b>; Vecchi, G.; Yang, W. Reducing tropical cyclone activity in global climate models by evaporative suppression. <i>in preparation</i></li>
+	<li><b>Rios, G.</b>; Vecchi, G.; Yang, W. Reducing tropical cyclone activity in global climate models by evaporative suppression. <i>in review, Journal of Geophysical Rearch: Atmospheres</i></li>
+	<li><b>Rios, G.</b>; Arthur, R.; Wharton, S. Lidar-based evaluation of HRRR performance in the Diablo Range. <i>in review, Weather and Forecasting</i></li>
+	<li>RS Arthur; A Rybchuk; TW Juliano; <b>Rios, G.</b>; S Wharton; JK Lundquist; J Fast. Evaluating mesoscale model predictions of diurnal speedup events in the Altamont Pass Wind Resource Area of California. <i>in review, Wind Energy Science</i></li>
 	<li><b>Rios, G.</b>; Peña, JC; Gamarro, H; Ramamurthy, P. Observations and analysis of an urban boundary layer and sea breezes during extreme heat events. <i>in preparation</i></li>
 </ol>
 
