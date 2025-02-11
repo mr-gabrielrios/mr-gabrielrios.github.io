@@ -14,8 +14,8 @@ Previously, I was at Vanderbilt University researching the use of computational 
 #### Under review/in preparation
 
 <ol reversed start='8'>
-	<li><b>Rios, G.</b>; Vecchi, G.; Yang, W. Reducing tropical cyclone activity in global climate models by evaporative suppression. <i>in review, Journal of Geophysical Rearch: Atmospheres</i></li>
-	<li><b>Rios, G.</b>; Arthur, R.; Wharton, S. Lidar-based evaluation of HRRR performance in the Diablo Range. <i>in review, Weather and Forecasting</i></li>
+	<li><b>Rios, G.</b>; Vecchi, G.; Yang, W. Reducing tropical cyclone activity in global climate models by evaporative suppression. <i>in review, Journal of Geophysical Research: Atmospheres</i></li>
+	<li><b>Rios, G.</b>; Arthur, R.; Wharton, S; Fast, J. Lidar-based evaluation of HRRR performance in the Diablo Range. <i>in review, Weather and Forecasting</i></li>
 	<li>RS Arthur; A Rybchuk; TW Juliano; <b>Rios, G.</b>; S Wharton; JK Lundquist; J Fast. Evaluating mesoscale model predictions of diurnal speedup events in the Altamont Pass Wind Resource Area of California. <i>in review, Wind Energy Science</i></li>
 	<li><b>Rios, G.</b>; Peña, JC; Gamarro, H; Ramamurthy, P. Observations and analysis of an urban boundary layer and sea breezes during extreme heat events. <i>in preparation</i></li>
 </ol>
@@ -27,7 +27,3 @@ Previously, I was at Vanderbilt University researching the use of computational 
 	<li><b>Rios, G.</b> & Ramamurthy, P. (2022). A novel model to estimate sensible heat fluxes  in urban areas using satellite-derived data. <i>Remote Sensing of Environment</i>, 270, 112880. <a href='/docs/qh_goes16.pdf'>(pdf)</a></li>
 	<li><b>Rios, G.</b>; Morrison, R. J.; Song, Y.; Fernando, S. J.; Wootten, C.; Gelbard, A.; & Luo, H. (2020). Computational fluid dynamics analysis of surgical approaches to bilateral vocal fold immobility. <i>The Laryngoscope</i>, 130(2), E57-E64. <a href='/docs/cfd_laryngoscope.pdf'>(pdf)</a></li>
 </ol>
-
-### What I'm listening to
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=mrgabrielrios&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
