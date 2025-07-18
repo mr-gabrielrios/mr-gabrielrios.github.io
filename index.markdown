@@ -14,14 +14,14 @@ Previously, I was at Vanderbilt University researching the use of computational 
 #### Under review/in preparation
 
 <ol reversed start='8'>
-	<li><b>Rios, G.</b>; Vecchi, G.; Yang, W. Reducing tropical cyclone activity in global climate models by evaporative suppression. <i>in review, Journal of Geophysical Research: Atmospheres</i></li>
-	<li><b>Rios, G.</b>; Arthur, R.; Wharton, S; Fast, J. Lidar-based evaluation of HRRR performance in the Diablo Range. <i>in review, Weather and Forecasting</i></li>
-	<li>RS Arthur; A Rybchuk; TW Juliano; <b>Rios, G.</b>; S Wharton; JK Lundquist; J Fast. Evaluating mesoscale model predictions of diurnal speedup events in the Altamont Pass Wind Resource Area of California. <i>in review, Wind Energy Science</i></li>
 	<li><b>Rios, G.</b>; Peña, JC; Gamarro, H; Ramamurthy, P. Observations and analysis of an urban boundary layer and sea breezes during extreme heat events. <i>in preparation</i></li>
 </ol>
 
 #### Peer-reviewed
 <ol reversed>
+	<li><b>Rios, G.</b>; Arthur, R.; Wharton, S; Fast, J. Lidar-based evaluation of HRRR performance in the Diablo Range. <i>Weather and Forecasting</i><a href="/docs/Rios_Arthur_Wharton_Fast-WAF-2025.pdf">(pdf)</a></li>
+	<li><b>Rios, G.</b>; Vecchi, G.; Yang, W. Reducing tropical cyclone activity in global climate models by evaporative suppression. <i>Journal of Geophysical Research: Atmospheres</i> <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JD043302">(link, open access)</a></li>
+	<li>RS Arthur; A Rybchuk; TW Juliano; <b>Rios, G.</b>; S Wharton; JK Lundquist; J Fast. Evaluating mesoscale model predictions of diurnal speedup events in the Altamont Pass Wind Resource Area of California. <i>Wind Energy Science</i><a href="https://wes.copernicus.org/articles/10/1187/2025/">(link)</a></li>
 	<li>Rahman, K.; <b>Rios, G.</b>; Gamarro, H.; Addasi, O; Peña, JC; Gonzalez-Cruz, J; Bornstein, R; Ramamurthy, P. The boundary layer characteristics of coastal urban environments. <i>Theoretical and Applied Climatology</i> <a href='/docs/rahman_atc.pdf'>(pdf)</a></li>
 	<li><b>Rios, G.</b> & Ramamurthy, P. Turbulence in the mixed layer over an urban area: a New York City case study. <i>Boundary Layer Meteorology</i> <a href='/docs/rios_ramamurthy_blm.pdf'>(pdf)</a></li>
 	<li><b>Rios, G.</b> & Ramamurthy, P. (2022). A novel model to estimate sensible heat fluxes  in urban areas using satellite-derived data. <i>Remote Sensing of Environment</i>, 270, 112880. <a href='/docs/qh_goes16.pdf'>(pdf)</a></li>
