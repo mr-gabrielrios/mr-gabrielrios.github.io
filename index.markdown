@@ -13,13 +13,14 @@ Previously, I was at Vanderbilt University researching the use of computational 
 
 #### Under review/in preparation
 
-<ol reversed start='8'>
-	<li><b>Rios, G.</b>; Peña, JC; Gamarro, H; Ramamurthy, P. Observations and analysis of an urban boundary layer and sea breezes during extreme heat events. <i>in preparation</i></li>
+<ol reversed start='9'>
+	<li><b>Rios, G.</b>; Vecchi, G.; Yang, W. Exploring the role of tropical cyclones on the mean climate state in a model hierarchy. <i>in preparation</i></li>
+	<li><b>Rios, G.</b>; Vecchi, G.; Yang, W. On the large-scale radiative cooling induced by tropical cyclone activity. <i>in preparation</i></li>
 </ol>
 
 #### Peer-reviewed
 <ol reversed>
-	<li><b>Rios, G.</b>; Arthur, R.; Wharton, S; Fast, J. Lidar-based evaluation of HRRR performance in the Diablo Range. <i>Weather and Forecasting</i><a href="/docs/Rios_Arthur_Wharton_Fast-WAF-2025.pdf">(pdf)</a></li>
+	<li><b>Rios, G.</b>; Arthur, R.; Wharton, S; Fast, J. Lidar-based evaluation of HRRR performance in the Diablo Range. <i>Weather and Forecasting</i> <a href="/docs/Rios_Arthur_Wharton_Fast-WAF-2025.pdf">(pdf)</a></li>
 	<li><b>Rios, G.</b>; Vecchi, G.; Yang, W. Reducing tropical cyclone activity in global climate models by evaporative suppression. <i>Journal of Geophysical Research: Atmospheres</i> <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JD043302">(link, open access)</a></li>
 	<li>RS Arthur; A Rybchuk; TW Juliano; <b>Rios, G.</b>; S Wharton; JK Lundquist; J Fast. Evaluating mesoscale model predictions of diurnal speedup events in the Altamont Pass Wind Resource Area of California. <i>Wind Energy Science</i><a href="https://wes.copernicus.org/articles/10/1187/2025/">(link)</a></li>
 	<li>Rahman, K.; <b>Rios, G.</b>; Gamarro, H.; Addasi, O; Peña, JC; Gonzalez-Cruz, J; Bornstein, R; Ramamurthy, P. The boundary layer characteristics of coastal urban environments. <i>Theoretical and Applied Climatology</i> <a href='/docs/rahman_atc.pdf'>(pdf)</a></li>
