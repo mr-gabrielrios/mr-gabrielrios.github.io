@@ -19,7 +19,7 @@ Previously, I was at Vanderbilt University researching the use of computational 
 
 #### Peer-reviewed
 <ol reversed>
-	<li><b>Rios, G.</b>; Vecchi, G.; Yang, W. Evidence of large-scale radiative cooling induced by tropical cyclone activity. <i>in press, Proceedings of the National Academies of Science.</i></li>
+	<li><b>Rios, G.</b>; Vecchi, G.; Yang, W. Evidence of large-scale radiative cooling induced by tropical cyclone activity. <i>Proceedings of the National Academy of Sciences.</i> <a href="https://doi.org/10.1073/pnas.2526160123 ">(pdf)</a></li>
 	<li><b>Rios, G.</b>; Arthur, R.; Wharton, S; Fast, J. Lidar-based evaluation of HRRR performance in the Diablo Range. <i>Weather and Forecasting</i> <a href="/docs/Rios_Arthur_Wharton_Fast-WAF-2025.pdf">(pdf)</a></li>
 	<li><b>Rios, G.</b>; Vecchi, G.; Yang, W. Reducing tropical cyclone activity in global climate models by evaporative suppression. <i>Journal of Geophysical Research: Atmospheres</i> <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JD043302">(link, open access)</a></li>
 	<li>RS Arthur; A Rybchuk; TW Juliano; <b>Rios, G.</b>; S Wharton; JK Lundquist; J Fast. Evaluating mesoscale model predictions of diurnal speedup events in the Altamont Pass Wind Resource Area of California. <i>Wind Energy Science</i> <a href="https://wes.copernicus.org/articles/10/1187/2025/">(link)</a></li>
